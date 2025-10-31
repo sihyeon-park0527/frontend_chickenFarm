@@ -275,7 +275,7 @@
 
 ### 7. 예방접종 관리
 #### 접종 등록 (`/home/inoculation`)
-<!-- ![접종 등록](./images/inoculation.png) -->
+![접종 등록](./images/inoculation.gif)
 
 #### 접종 리스트 (`/home/inoculation-list`)
 <!-- ![접종 리스트](./images/inoculation-list.png) -->
