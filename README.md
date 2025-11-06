@@ -278,10 +278,10 @@
 ![접종 등록](./images/inoculation.gif?v=2025-01-31)
 
 #### 접종 리스트 (`/home/inoculation-list`)
-<!-- ![접종 리스트](./images/inoculation-list.png) -->
+![접종 리스트](./images/inoculation-list.gif?v=2025-01-31)
 
 #### 접종 일정 (`/home/inoculation-schedule`)
-<!-- ![접종 일정](./images/inoculation-schedule.png) -->
+![접종 일정](./images/inoculation-schedule.gif?v=2025-01-31)
 
 ---
 
